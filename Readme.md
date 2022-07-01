@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Anthro_Soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnthroSoft" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19462699/anthrosoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19462699/anthrosoft" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/iamAnthroSoft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iamAnthroSoft/" height="30" width="40" /></a>
 <a href="https://instagram.com/iamAnthroSoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamAnthroSoft" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AnthroSoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnthroSoft" height="30" width="40" /></a>
