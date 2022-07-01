@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're AnthroSoft</h1>
-<h3 align="center">A software house managed by a group of insightful students, striving to be best at software development, We're currently working with Python, C, Lua & Rust</h3>
+<h3 align="center">A software house managed by a group of insightful students, striving to be best at software development, We're currently working with Python, C, C++, Rust & Java</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnthroSoft" alt="AnthroSoft" /></a> </p>
 
