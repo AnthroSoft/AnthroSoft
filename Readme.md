@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, We're AnthroSoft</h1>
-<h3 align="center">A software house managed by a group of insightful students, striving to be best at software development, We're currently working with Python, C, C++, Rust & Java</h3>
+<h1 align="center">Hi 👋, It's AnthroSoft</h1>
+<h3 align="center">A software house managed by an insightful CS student, striving to be best at software development, I'm currently working with Python, C, & Rust</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnthroSoft" alt="AnthroSoft" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Anthro_Soft" target="blank"><img src="https://img.shields.io/twitter/follow/Anthro_Soft?logo=twitter&style=for-the-badge" alt="AnthroSoft" /></a> </p>
 
-- 👨‍💻 All of our projects are available at [GitHub](https://github.com/AnthroSoft?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AnthroSoft?tab=repositories)
 
-- 📝 Follow us on [Twitter](https://twitter.com/Anthro_Soft)
+- 📝 Follow me on [Twitter](https://twitter.com/Anthro_Soft)
 
-- 💬 Ask us about **Python, C, C++, Rust, Java**
+- 💬 Ask me about **Python, C, C++, Rust, Java**
 
-- 📫 How to reach us *anthrosoft.info@gmail.com*
+- 📫 How to reach me *anthrosoft.info@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
