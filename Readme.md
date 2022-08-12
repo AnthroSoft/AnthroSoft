@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's AnthroSoft</h1>
-<h3 align="center">A software house managed by a group of insightful students, striving to be best at software development, I'm currently working with Python, C, & Rust</h3>
+<h3 align="center">A software house managed by a group of insightful students, striving to be best at software development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnthroSoft" alt="AnthroSoft" /></a> </p>
 
